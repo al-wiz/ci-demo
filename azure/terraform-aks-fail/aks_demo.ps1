@@ -11,3 +11,4 @@ if(-not $env:WIZ_CLIENT_SECRET) {$env:WIZ_CLIENT_SECRET = $(Read-Host "WIZ_CLIEN
 #terraform init
 #terraform plan
 #terraform apply --auto-approve
+#test
